@@ -23,13 +23,14 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 A basic understanding of the software development life cycle and Java development is needed, as well as a rudimentary understanding of Jenkins.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-oVirtualbox - v5.1.22 or latest
-▪http://www.virtualbox.org/
-oVagrant - v1.9.7 or latest
-▪https://www.vagrantup.com/
-▪https://www.vagrantup.com/intro/index.html
-▪https://www.virtualbox.org/manual/UserManual.html
-▪https://jenkins.io/doc/
+o [Virtualbox](http://www.virtualbox.org/) - v5.1.22 or latest
+
+o Vagrant - v1.9.7 or latest
+
+▪ https://www.vagrantup.com/
+▪ https://www.vagrantup.com/intro/index.html
+▪ https://www.virtualbox.org/manual/UserManual.html
+▪ https://jenkins.io/doc/
 
 
 ## Related Products
